@@ -1,0 +1,10 @@
+.result-display {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.result-display p {
+  font-size: 1.6rem;   
+  font-weight: bold;   
+  margin: 0;
+}
